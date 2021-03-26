@@ -16,6 +16,6 @@ The usage flow of the GUI is as follows:
   3. select a certain user in the search results and list all the reviews given by that user.
 
 ## Screenshots
-![](../master/screenshots/1.png)
-![](../master/screenshots/2.png)
-![](../master/screenshots/3.png)
+![](../mainr/screenshots/1.png)
+![](../main/screenshots/2.png)
+![](../main/screenshots/3.png)
