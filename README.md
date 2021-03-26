@@ -16,7 +16,7 @@ The usage flow of the GUI is as follows:
   5. Review column is the next selection. The user can specify review duration (from/to) and enter the star and vote values into the text box. The attributes under the Review column are also optional.
 
 The application is able to search for the businesses that have either all the specified values (AND condition) or that have any of the values specified (OR condition). 
-Once the user elects a certain business in the search results and the second result table will list all the reviews for that business.
+Once the user selects a certain business in the search results and the second result table will list all the reviews for that business.
 
 ### User Search
 With the GUI of this application, the user can perform a searach of users that match the criteria given. 
